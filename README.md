@@ -1,4 +1,3 @@
--she/her
 - Hi, I’m Saniya Tabssum
 - I’m interested in AI/ML
 - I’m currently learning python,c/c++,dsa
